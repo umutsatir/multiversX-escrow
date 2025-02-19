@@ -1,47 +1,31 @@
 #![no_std]
-
-
 multiversx_sc::imports!();
-
 multiversx_sc::derive_imports!();
-
-
 #[derive(
-
     multiversx_sc::codec::derive::TopEncode,
     multiversx_sc::codec::derive::TopDecode,
     
-
     multiversx_sc::codec::derive::NestedEncode, 
     multiversx_sc::codec::derive::NestedDecode,
 
     multiversx_sc::derive::TypeAbi,
     
-
     PartialEq,
-
     Clone
 )]
 
 pub enum OfferStatus {
-
     Active,
-
     Completed,
-
     Cancelled
 }
 
 #[derive(
-
     multiversx_sc::codec::derive::TopEncode,
     multiversx_sc::codec::derive::TopDecode,
-    
     multiversx_sc::codec::derive::NestedEncode,
     multiversx_sc::codec::derive::NestedDecode,
-    
     multiversx_sc::derive::TypeAbi,
-    
     Clone
 )]
 
@@ -49,19 +33,10 @@ pub enum OfferStatus {
 pub struct Offer<M: ManagedTypeApi> {
 
     pub offer_id: u64,
-    
-
     pub creator: ManagedAddress<M>,
-    
-
     pub recipient: ManagedAddress<M>,
-
     pub amount: BigUint<M>,
-    
-
     pub status: OfferStatus,
-    
-
     pub created_timestamp: u64
 }
 
@@ -491,9 +466,6 @@ pub trait EscrowContract {
             }
         }
         
-
-
-
         result
     }
 }
