@@ -1,0 +1,13 @@
+/home/halfgork/multiversX-escrow/escrow-sc/target/debug/deps/libtoml-c59c9229d8bd6ecc.rmeta: /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.20/src/lib.rs /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.20/src/map.rs /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.20/src/value.rs /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.20/src/de.rs /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.20/src/ser.rs /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.20/src/macros.rs /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.20/src/edit.rs /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.20/src/fmt.rs /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.20/src/table.rs
+
+/home/halfgork/multiversX-escrow/escrow-sc/target/debug/deps/toml-c59c9229d8bd6ecc.d: /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.20/src/lib.rs /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.20/src/map.rs /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.20/src/value.rs /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.20/src/de.rs /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.20/src/ser.rs /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.20/src/macros.rs /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.20/src/edit.rs /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.20/src/fmt.rs /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.20/src/table.rs
+
+/home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.20/src/lib.rs:
+/home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.20/src/map.rs:
+/home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.20/src/value.rs:
+/home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.20/src/de.rs:
+/home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.20/src/ser.rs:
+/home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.20/src/macros.rs:
+/home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.20/src/edit.rs:
+/home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.20/src/fmt.rs:
+/home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.20/src/table.rs:

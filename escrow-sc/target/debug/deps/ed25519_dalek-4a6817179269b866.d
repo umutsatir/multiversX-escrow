@@ -1,0 +1,11 @@
+/home/halfgork/multiversX-escrow/escrow-sc/target/debug/deps/libed25519_dalek-4a6817179269b866.rmeta: /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-dalek-2.1.1/src/lib.rs /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-dalek-2.1.1/src/constants.rs /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-dalek-2.1.1/src/errors.rs /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-dalek-2.1.1/src/signature.rs /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-dalek-2.1.1/src/signing.rs /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-dalek-2.1.1/src/verifying.rs /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-dalek-2.1.1/src/hazmat.rs
+
+/home/halfgork/multiversX-escrow/escrow-sc/target/debug/deps/ed25519_dalek-4a6817179269b866.d: /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-dalek-2.1.1/src/lib.rs /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-dalek-2.1.1/src/constants.rs /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-dalek-2.1.1/src/errors.rs /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-dalek-2.1.1/src/signature.rs /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-dalek-2.1.1/src/signing.rs /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-dalek-2.1.1/src/verifying.rs /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-dalek-2.1.1/src/hazmat.rs
+
+/home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-dalek-2.1.1/src/lib.rs:
+/home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-dalek-2.1.1/src/constants.rs:
+/home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-dalek-2.1.1/src/errors.rs:
+/home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-dalek-2.1.1/src/signature.rs:
+/home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-dalek-2.1.1/src/signing.rs:
+/home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-dalek-2.1.1/src/verifying.rs:
+/home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-dalek-2.1.1/src/hazmat.rs:

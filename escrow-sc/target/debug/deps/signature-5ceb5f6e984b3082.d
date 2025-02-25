@@ -1,0 +1,12 @@
+/home/halfgork/multiversX-escrow/escrow-sc/target/debug/deps/libsignature-5ceb5f6e984b3082.rmeta: /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/lib.rs /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/hazmat.rs /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/encoding.rs /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/error.rs /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/keypair.rs /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/signer.rs /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/verifier.rs /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/../README.md
+
+/home/halfgork/multiversX-escrow/escrow-sc/target/debug/deps/signature-5ceb5f6e984b3082.d: /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/lib.rs /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/hazmat.rs /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/encoding.rs /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/error.rs /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/keypair.rs /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/signer.rs /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/verifier.rs /home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/../README.md
+
+/home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/lib.rs:
+/home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/hazmat.rs:
+/home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/encoding.rs:
+/home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/error.rs:
+/home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/keypair.rs:
+/home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/signer.rs:
+/home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/verifier.rs:
+/home/halfgork/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signature-2.2.0/src/../README.md:
