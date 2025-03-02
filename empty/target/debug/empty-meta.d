@@ -1,0 +1,1 @@
+/Users/umutsatir/Desktop/local-projects/blockchain/multiversX-escrow/empty/target/debug/empty-meta: /Users/umutsatir/Desktop/local-projects/blockchain/multiversX-escrow/empty/meta/src/main.rs /Users/umutsatir/Desktop/local-projects/blockchain/multiversX-escrow/empty/src/empty.rs

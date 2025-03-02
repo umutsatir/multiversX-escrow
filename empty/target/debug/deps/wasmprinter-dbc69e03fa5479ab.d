@@ -1,0 +1,10 @@
+/Users/umutsatir/Desktop/local-projects/blockchain/multiversX-escrow/empty/target/debug/deps/libwasmprinter-dbc69e03fa5479ab.rmeta: /Users/umutsatir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.224.1/src/lib.rs /Users/umutsatir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.224.1/src/component.rs /Users/umutsatir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.224.1/src/operator.rs /Users/umutsatir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.224.1/src/print.rs
+
+/Users/umutsatir/Desktop/local-projects/blockchain/multiversX-escrow/empty/target/debug/deps/libwasmprinter-dbc69e03fa5479ab.rlib: /Users/umutsatir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.224.1/src/lib.rs /Users/umutsatir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.224.1/src/component.rs /Users/umutsatir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.224.1/src/operator.rs /Users/umutsatir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.224.1/src/print.rs
+
+/Users/umutsatir/Desktop/local-projects/blockchain/multiversX-escrow/empty/target/debug/deps/wasmprinter-dbc69e03fa5479ab.d: /Users/umutsatir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.224.1/src/lib.rs /Users/umutsatir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.224.1/src/component.rs /Users/umutsatir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.224.1/src/operator.rs /Users/umutsatir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.224.1/src/print.rs
+
+/Users/umutsatir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.224.1/src/lib.rs:
+/Users/umutsatir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.224.1/src/component.rs:
+/Users/umutsatir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.224.1/src/operator.rs:
+/Users/umutsatir/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.224.1/src/print.rs:

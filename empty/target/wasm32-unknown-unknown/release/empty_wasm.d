@@ -1,0 +1,1 @@
+/Users/umutsatir/Desktop/local-projects/blockchain/multiversX-escrow/empty/target/wasm32-unknown-unknown/release/empty_wasm.wasm: /Users/umutsatir/Desktop/local-projects/blockchain/multiversX-escrow/empty/src/empty.rs /Users/umutsatir/Desktop/local-projects/blockchain/multiversX-escrow/empty/wasm/src/lib.rs
